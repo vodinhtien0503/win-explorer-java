@@ -12,7 +12,7 @@ Hướng dẫn chạy code..
 1.TẢI PROJECT thiguaki TRÊN GITHUB
 
 
-2.MỞ CMD
+2.MỞ CMD của windows
 
 
 
