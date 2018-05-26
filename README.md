@@ -5,7 +5,7 @@ Mã SV:17IT105
 
 
 
-VIDEO hướng dẫn sử dụng :			
+VIDEO hướng dẫn sử dụng :	https://youtu.be/g6Owb36J7eQ		
 
 
 Hướng dẫn chạy code..  
