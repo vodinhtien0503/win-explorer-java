@@ -40,6 +40,11 @@ java thiguaki.winexplorer
 
 
 
+
+
+
+ý nghĩa code:
+
 DefaultMutableTreeNode root = new DefaultMutableTreeNode();//tạo thể hiện có tên root đóng vai trò là gốc của cây//
 
 
