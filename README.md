@@ -1,19 +1,44 @@
 Tên: Võ Đình Tiến
 Mã SV:17IT105
 ĐỀ SỐ:06
-VIDEO hướng dẫn sử dụng :
+
+
+
+
+VIDEO hướng dẫn sử dụng :			
 
 
 Hướng dẫn chạy code..  
 1.TẢI PROJECT thiguaki TRÊN GITHUB
+
+
 2.MỞ CMD
+
+
+
 3.DÙNG LỆNH CD CHUYỂN ĐẾN THƯ MỤC CHƯA SOURCE CODE
+
+
+
 VÍ DỤ:
 cd C:\Users\Administrator\eclipse-workspace\thiguaki\src
+
+
+
 4.BIÊN DỊCH BẰNG DÒNG LỆNH JAVAC
+
+
 javac thiguaki\winexplorer.java
+
+
+
 5.CHẠY LỆNH BẰNG LỆNH JAVA
+
+
 java thiguaki.winexplorer
+
+
+
 
 DefaultMutableTreeNode root = new DefaultMutableTreeNode();//tạo thể hiện có tên root đóng vai trò là gốc của cây//
 
