@@ -32,7 +32,7 @@ javac thiguaki\winexplorer.java
 
 
 
-5.CHẠY LỆNH BẰNG LỆNH JAVA
+5.CHẠY BẰNG LỆNH JAVA
 
 
 java thiguaki.winexplorer
